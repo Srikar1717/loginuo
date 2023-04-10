@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:teamup/components/font_styles.dart';
+import 'package:teamup/utilities/font_styles.dart';
 
 import 'loginscreen .dart';
 

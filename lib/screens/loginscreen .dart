@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:teamup/components/my_colors.dart';
-import 'package:teamup/components/mytextform.dart';
+import 'package:teamup/utilities/my_colors.dart';
+import 'package:teamup/utilities/mytextform.dart';
 
 //import '../components/font_styles.dart';
 
